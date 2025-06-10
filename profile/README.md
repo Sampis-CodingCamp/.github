@@ -13,7 +13,7 @@ SAMPIS adalah project capstone dari program Coding Camp 2025. Project ini dibang
   <table align="center">
     <tr>
       <th>Learning Path</th>
-      <th>Cohort ID ID</th>
+      <th>Cohort ID</th>
       <th>Name</th>
     </tr>
     <tr>
