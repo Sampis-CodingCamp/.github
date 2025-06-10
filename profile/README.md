@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/fcc0a289-6853-49ab-8172-1125dbcdf0a6" width="500" height="150"><br>
+  <img src="https://github.com/user-attachments/assets/0547c503-349c-4fde-b8ff-8c1048721e9b" width="500" height="150"><br>
   <h3>Sampah Rapih, Bumi Happy!</h3>
 </div>
 
