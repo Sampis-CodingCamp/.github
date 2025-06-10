@@ -2,6 +2,7 @@
   <!-- Logo adaptif yang berubah sesuai tema GitHub -->
   <img src="https://raw.githubusercontent.com/Sampis-CodingCamp/.github/main/logo/SAMPIS (2).svg" width="300" alt="SAMPIS Logo">
 
+
   <h3><b>Sampah Rapih, Bumi Happy!</b></h3>
 </div>
 
