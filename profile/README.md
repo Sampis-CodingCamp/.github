@@ -54,5 +54,5 @@ SAMPIS adalah project capstone dari program Coding Camp 2025. Project ini dibang
 - Menklasifikasikan jenis sampah rumah tangga secara otomatis.
 - Menghasilkan **Sampoint**, poin digital yang dapat ditukar dengan hadiah.
 
-### How to Access Website 🌳
+### 🌎 How to Access Website 🌳
 - **[S♻️MPIS](https://sampis.netlify.app/)**
