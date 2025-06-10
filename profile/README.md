@@ -55,4 +55,4 @@ SAMPIS adalah project capstone dari program Coding Camp 2025. Project ini dibang
 - Menghasilkan **Sampoint**, poin digital yang dapat ditukar dengan hadiah.
 
 ### How to Access Website 🌳
-**[S♻️MPIS](https://sampis.netlify.app/)**
+- **[S♻️MPIS](https://sampis.netlify.app/)**
