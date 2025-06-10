@@ -6,7 +6,7 @@
 </div>
 
 ### 🧩 What's this ?
-SAMPIS adalah project capstone dari program Coding Camp 2025. Project ini dibangun oleh tim CC25-CF090 yang beranggotakan 3 member Machine Learning dan 3 member FEBE. 
+SAMPIS adalah project capstone dari program Coding Camp 2025. Project ini dibangun oleh tim `CC25-CF090` yang beranggotakan 3 member Machine Learning dan 3 member FEBE. 
 
 <div align="center">
   <h3> 👥 Anggota Tim 👥</h3>
@@ -51,6 +51,5 @@ SAMPIS adalah project capstone dari program Coding Camp 2025. Project ini dibang
 
 ### 🗑️ Deskripsi Project
 **SAMPIS** adalah platform manajemen sampah berbasis website dan teknologi Machine Learning yang memungkinkan masyarakat untuk:
-- Mengelompokkan jenis sampah rumah tangga secara otomatis.
-- Mendaur ulang atau mengumpulkan sampah dengan panduan sistematis.
-- - Menghasilkan **Sampoint**, poin digital yang dapat ditukar dengan hadiah.
+- Menklasifikasikan jenis sampah rumah tangga secara otomatis.
+- Menghasilkan **Sampoint**, poin digital yang dapat ditukar dengan hadiah.
