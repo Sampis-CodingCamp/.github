@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Logo adaptif yang berubah sesuai tema GitHub -->
-  <img src="../logo/logo_sampis.svg" alt="SAMPIS Logo" width="400" height="150">
+  <img src="../logo/logo_sampis.png" alt="SAMPIS Logo" width="400" height="150">
 
   <h3><b>Sampah Rapih, Bumi Happy!</b></h3>
 </div>
