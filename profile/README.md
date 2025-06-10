@@ -6,7 +6,7 @@
 </div>
 
 ### 🧩 What's this ?
-SAMPIS adalah project capstone dari program Coding Camp 2025. Project ini dibangun oleh tim `CC25-CF090` yang beranggotakan 3 member Machine Learning dan 3 member FEBE. 
+**S♻️MPIS** adalah project capstone dari program Coding Camp 2025. Project ini dibangun oleh tim `CC25-CF090` yang beranggotakan 3 member Machine Learning dan 3 member FEBE. 
 
 <div align="center">
   <h3> 👥 Team Members 👥</h3>
