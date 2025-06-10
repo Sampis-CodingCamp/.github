@@ -50,7 +50,7 @@
 </div>
 
 ### 🗑️ Project Description
-**SAMPIS** adalah platform manajemen sampah berbasis website dan teknologi Machine Learning yang memungkinkan masyarakat untuk:
+**S♻️MPIS** adalah platform manajemen sampah berbasis website dan teknologi Machine Learning yang memungkinkan masyarakat untuk:
 - Menklasifikasikan jenis sampah rumah tangga secara otomatis.
 - Menghasilkan **Sampoint**, poin digital yang dapat ditukar dengan hadiah.
 
