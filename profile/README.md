@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Logo adaptif yang berubah sesuai tema GitHub -->
-  <img src="../logo/SAMPIS (2).svg" width="300" alt="SAMPIS Logo">
+  <img src="../logo/logo_sampis.svg" alt="SAMPIS Logo" width="400" height="150">
 
   <h3><b>Sampah Rapih, Bumi Happy!</b></h3>
 </div>
@@ -9,7 +9,7 @@
 SAMPIS adalah project capstone dari program Coding Camp 2025. Project ini dibangun oleh tim CC25-CF090 yang beranggotakan 3 member Machine Learning dan 3 member FEBE. 
 
 <div align="center">
-  <h3> 👥 Anggota Tim</h3>
+  <h3> 👥 Anggota Tim 👥</h3>
   <table align="center">
     <tr>
       <th>Learning Path</th>
